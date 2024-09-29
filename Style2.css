@@ -1,0 +1,24 @@
+img {
+ border-radius: 90px;
+}
+h2 {
+ font-size: 18px;
+}
+body {
+ background-color: black;
+ font-family: sans;
+ color: white;
+ text-align: center;
+}
+a {
+ background: linear-gradient(to right, gray, black);
+ font-size: 20px;
+ border-radius: 20px;
+ padding: 10px;
+ display: block;
+ text-align: center;
+ margin: 10px;
+ color: white;
+ font-decoration: none;
+ 
+}
